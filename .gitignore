@@ -1,0 +1,46 @@
+# Node
+node_modules/
+dist/
+build/
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Log files
+*.log
+
+# Supabase
+.supabase/
+
+# Misc
+*.local
+*.sublime-workspace
+*.sublime-project
+
+# Tailwind
+*.css.map
+
+# Others
+*.sqlite3
+
+# Ignore package-lock and yarn lock if you use only one
+# package-lock.json
+yarn.lock

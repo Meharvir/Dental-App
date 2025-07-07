@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+supabase
+chromadb
+langchain
+langchain-google-genai
+google-generativeai
+httpx
+pydantic[email] 
